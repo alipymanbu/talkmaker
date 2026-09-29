@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# talkmaker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+本仓库是「talkmaker」的安卓版本获取入口，附使用资料索引。
 
-## Available Scripts
+## 安装文件资源（夸克网盘）
 
-In the project directory, you can run:
+> **talkmaker 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f6ea5282db4a](https://pan.quark.cn/s/f6ea5282db4a)
 
-### `npm start`
+## 官方项目
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 上游项目：[yeodahui/talkmaker](https://github.com/yeodahui/talkmaker)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 更多资料
 
-### `npm test`
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/talkmaker/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [会员价格与自动续费取消](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/talkmaker/%E4%BC%9A%E5%91%98%E4%BB%B7%E6%A0%BC%E4%B8%8E%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E5%8F%96%E6%B6%88.md)
+- [常见问题与故障排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/talkmaker/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5.md)
+- [电脑上怎么用](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/talkmaker/%E7%94%B5%E8%84%91%E4%B8%8A%E6%80%8E%E4%B9%88%E7%94%A8.md)
+- [第一次打开怎么用](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/talkmaker/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%89%93%E5%BC%80%E6%80%8E%E4%B9%88%E7%94%A8.md)
+- [自定义角色与做饭模式怎么玩](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/talkmaker/%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A7%92%E8%89%B2%E4%B8%8E%E5%81%9A%E9%A5%AD%E6%A8%A1%E5%BC%8F%E6%80%8E%E4%B9%88%E7%8E%A9.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/yeodahui/talkmaker)。
